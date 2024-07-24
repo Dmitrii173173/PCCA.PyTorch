@@ -1,6 +1,8 @@
 # PCCA.PyTorch
 
 This repository contains a modified version of the Pointnet2.PyTorch project originally created by Shaoshuai Shi.
+![Fig2](https://github.com/user-attachments/assets/b1ba0ffc-4fbb-41a1-9905-ff31fe4aa9f7)
+![Fig4](https://github.com/user-attachments/assets/640251fd-9664-44e2-8304-d946de5d8610)
 
 ## Original Project
 
