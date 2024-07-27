@@ -69,7 +69,7 @@ Pointnet2.PyTorch
 2. Run the following command to train and evaluate:
 ```shell
 cd tools
-python train_and_eval.py --batch_size 8 --epochs 100 --ckpt_save_interval 2 
+python train_and_eval.py --batch_size 8 --epochs 90 --lr 0.0001 --ckpt_save_interval 2
 ```
 
 
