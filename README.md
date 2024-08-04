@@ -79,7 +79,7 @@ python train_and_eval.py --batch_size 8 --epochs 90 --lr 0.0001 --ckpt_save_inte
 ## Project using this repo:
 * [PointRCNN](https://github.com/sshaoshuai/PointRCNN): 3D object detector from raw point cloud.
 
-* [PointCloudTransformer]([https://github.com/sshaoshuai/PointRCNN](https://github.com/qinglew/PointCloudTransformer)): Implementation of PCT(Point Cloud Transformer) in PyTorch.
+* [PointCloudTransformer](https://github.com/qinglew/PointCloudTransformer): Implementation of PCT(Point Cloud Transformer) in PyTorch.
 
 ## Acknowledgement
 * [charlesq34/pointnet2](https://github.com/charlesq34/pointnet2): Paper author and official code repo.
